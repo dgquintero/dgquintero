@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://gph.is/g/EJNJnox" width=100>
+  <br><br>
+  <samp>
+    I'm <a href="https://danielquintero.tech">Daniel Quintero</a> Software Developer:computer:. Interested in working on backend, API's, Databases. 
+  </samp>
+</p>
+
 <!--
 **dgquintero/dgquintero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
