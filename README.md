@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://gph.is/g/EJNJnox" width=100>
+  <img src="https://giphy.com/gifs/du3J3cXyzhj75IOgvA/html5" width=100>
   <br><br>
   <samp>
     I'm <a href="https://danielquintero.tech">Daniel Quintero</a> Software Developer:computer:. Interested in working on backend, API's, Databases. 
