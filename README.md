@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=100>
   <br><br>
   <samp>
-    ### Hi there 👋, i'm <a href="https://danielquintero.tech">Daniel Quintero</a> Software Developer:computer:. Interested in working on backend, API's, Databases. 
+    ###Hi there 👋, i'm <a href="https://danielquintero.tech">Daniel Quintero</a> Software Developer:computer:. Interested in working on backend, API's, Databases. 
   </samp>
 </p>
 
